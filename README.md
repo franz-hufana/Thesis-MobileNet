@@ -1,3 +1,3 @@
 # For Thesis Purposes
 
-Probably dead after finishing this project :')
+Thesis Documentation of our System or Proof-of-Concept.
